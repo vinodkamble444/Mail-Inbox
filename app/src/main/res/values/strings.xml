@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Users List</string>
+    <string name="sort_by">Sort By</string>
+    <string name="info">Info</string>
+    <string name="point">Points</string>
+    <string name="active">Last Active</string>
+    <string name="more">more</string>
+    <string name="loading_users_error">Error while loading Users</string>
+    <string name="action_search">Search By Email</string>
+    <string name="action_delete">Delete</string>
+</resources>

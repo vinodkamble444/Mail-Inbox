@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Jame Smith",
+    "email": "james.smith@smarp.fi",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": [],
+    "lastActive": "2017-09-15T16:49:35.129Z"
+  },
+  {
+    "name": "Joe Doe",
+    "email": "joe@doe.com",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": ["Group 1", "Group A", "Group XVI"],
+    "lastActive": "2017-09-15T16:49:35.129Z"
+  },
+  {
+    "name": "Donald Trump",
+    "email": "donald@trump.com",
+    "avatarUrl": "unavailable.jpeg",
+    "point": "0",
+    "lastActive": "2017-09-16T16:49:35.129Z"
+  }
+,
+  {
+    "name": "Vinod Kamble",
+    "email": "vinod@gmail.com",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": ["Group 1", "Group A", "Group XVI","Group X"],
+    "point": "5",
+    "lastActive": "2017-08-08T16:49:35.129Z"
+  },
+  {
+    "name": "Jame Smith",
+    "email": "james.smith@smarp.fi",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": [],
+    "lastActive": "2017-09-09T16:49:35.129Z"
+  },
+  {
+    "name": "Joe Doe",
+    "email": "joe@doe.com",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": ["Group 1", "Group A", "Group XVI"],
+    "lastActive": "2017-09-08T16:49:35.129Z"
+  },
+  {
+    "name": "Donald Trump",
+    "email": "donald@trump.com",
+    "avatarUrl": "unavailable.jpeg",
+    "point": "0",
+    "lastActive": "2017-08-08T16:49:35.129Z"
+  },
+  {
+    "name": "Jame Smith",
+    "email": "james.smith@smarp.fi",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": [],
+    "lastActive": "2017-09-09T16:49:35.129Z"
+  },
+  {
+    "name": "Joe Doe",
+    "email": "joe@doe.com",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": ["Group 1", "Group A", "Group XVI"],
+    "lastActive": "2017-09-08T16:49:35.129Z"
+  },
+  {
+    "name": "Donald Trump",
+    "email": "donald@trump.com",
+    "avatarUrl": "unavailable.jpeg",
+    "point": "0",
+    "lastActive": "2017-08-08T16:49:35.129Z"
+  },
+  {
+    "name": "Jame Smith",
+    "email": "james.smith@smarp.fi",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": [],
+    "lastActive": "2017-09-09T16:49:35.129Z"
+  },
+  {
+    "name": "Jame Smith",
+    "email": "joe@doe.com",
+    "avatarUrl": "unavailable.jpeg",
+    "userGroup": ["Group 1", "Group A", "Group XVI"],
+    "lastActive": "2017-09-08T16:49:35.129Z"
+  },
+  {
+    "name": "Donald Trump",
+    "email": "donald@trump.com",
+    "avatarUrl": "unavailable.jpeg",
+    "lastActive": "2017-09-08T16:49:35.129Z",
+    "point": "0"
+  }
+]
